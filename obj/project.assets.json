@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HOD-SW\\Desktop\\Sotware_Repos\\Console_Apps\\Method-with-Palindrome\\Method-with-Palindrome.csproj",
+      "projectUniqueName": "C:\\Users\\HOD-SW\\OneDrive\\Documents\\Software_Repos\\Console_Apps\\palindrome-using-method-05-02-25\\Method-with-Palindrome.csproj",
       "projectName": "Method-with-Palindrome",
-      "projectPath": "C:\\Users\\HOD-SW\\Desktop\\Sotware_Repos\\Console_Apps\\Method-with-Palindrome\\Method-with-Palindrome.csproj",
+      "projectPath": "C:\\Users\\HOD-SW\\OneDrive\\Documents\\Software_Repos\\Console_Apps\\palindrome-using-method-05-02-25\\Method-with-Palindrome.csproj",
       "packagesPath": "C:\\Users\\HOD-SW\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HOD-SW\\Desktop\\Sotware_Repos\\Console_Apps\\Method-with-Palindrome\\obj\\",
+      "outputPath": "C:\\Users\\HOD-SW\\OneDrive\\Documents\\Software_Repos\\Console_Apps\\palindrome-using-method-05-02-25\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HOD-SW\\AppData\\Roaming\\NuGet\\NuGet.Config"
