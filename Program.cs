@@ -13,11 +13,11 @@ Console.WriteLine(fibonacci.PrintFibonacci(10));
 
 OptionsMethod optionsMethod = new OptionsMethod();
 
-// Console.WriteLine("Welcome To A4 Computation....");
-// Console.Write("Select option to perform:\n1. To reverse digits\n2. To print the average of sequence of numbers in array\n3. To perform linear equation.\n");
-// int option = Convert.ToInt32(Console.ReadLine());
-//
-// optionsMethod.ChooseOption(option);
+Console.WriteLine("Welcome To A4 Computation....");
+Console.Write("Select option to perform:\n1. To reverse digits\n2. To print the average of sequence of numbers in array\n3. To perform linear equation.\n");
+int option = Convert.ToInt32(Console.ReadLine());
+
+optionsMethod.ChooseOption(option);
 
 
 
