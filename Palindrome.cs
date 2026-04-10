@@ -2,7 +2,6 @@ namespace Method_with_Palindrome;
 
 public class Palindrome
 {
-    // Palindrome method
     public string IsPalindrome(string word)
     {
         string convertedWord = word.ToLower();
