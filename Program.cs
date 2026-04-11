@@ -3,13 +3,13 @@
 using System;
 using Method_with_Palindrome;
 
-// Palindrome palindrome = new Palindrome();
-//
-// Console.WriteLine(palindrome.IsPalindrome("Abbey"));
+Palindrome palindrome = new Palindrome();
 
-// Fibonacci fibonacci = new Fibonacci();
-//
-// Console.WriteLine(fibonacci.PrintFibonacci(10));
+Console.WriteLine(palindrome.IsPalindrome("Abbey"));
+
+Fibonacci fibonacci = new Fibonacci();
+
+Console.WriteLine(fibonacci.PrintFibonacci(10));
 
 OptionsMethod optionsMethod = new OptionsMethod();
 
