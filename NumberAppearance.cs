@@ -2,6 +2,7 @@ namespace Method_with_Palindrome;
 
 public class NumberAppearance
 {
+    //
     public int PrintNumberAppearances(int [] arrayNumbers, int number)
     {
         int counter = 0;
