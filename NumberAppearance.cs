@@ -9,7 +9,7 @@ public class NumberAppearance
 
         for(int i = 0; i < arrayNumbers.Length; i++)
         {
-            if (numbe == arrayNumbers[i])
+            if (number == arrayNumbers[i])
             {
                 counter++;
                 
